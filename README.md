@@ -1,2 +1,2 @@
-# twitter apiを使ってtwitter dataを収集するコードです
+# twitter apiを使ったtwitter data収集
 
